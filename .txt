@@ -1,0 +1,9 @@
+-- install module
+npm i
+
+-- running project
+npm run dev
+
+
+-- example template undangan nikah
+https://www.figma.com/file/i3vEIkDpEXdePSTbYOcpnF/Wedding-Invitation-App-(Copy).-(Community)?type=design&mode=design&t=Z76DryTwuABMo6SH-0
